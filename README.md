@@ -8,6 +8,8 @@ This software takes in a first name and a last name and then proceeds to concate
 It does this by asking for an input of a string variable for a first name and an input of a string variable for the last name.
 
 
+To use this program, please enter your first name. Then press enter. Then enter your last name. Press Enter. You are done!
+
 If someone wanted to contribute to this software, they can download the Hello_World github file and push their changes from JupyterLab to gitHub.
 
 _____________________________________________________________________________________________________________________________________________
