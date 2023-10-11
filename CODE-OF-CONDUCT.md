@@ -1,0 +1,3 @@
+This program was designed only to concatenate non-vulgar words into a full name. Please refrain from entering any words that can be considered as offensive or hate speech and use this code for the sole purpose of printing out someone's full name.
+
+I decided to form our code of conduct this way to ensure that our program is not used for dangerous reasons. We made the code so it can properly print out someone's full name. Any other use of our code is frowned upon and not acceptable.
